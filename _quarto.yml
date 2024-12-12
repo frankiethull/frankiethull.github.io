@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Frank Hull | Personal Site & Blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/frankiethull
+      - icon: twitter
+        href: https://twitter.com/frankiethull
+      - icon: linkedin
+        href: https://linkedin.com/frank-hull-a25ab0bb
+      - icon: bluesky
+        href: https://bsky.app/profile/frankiethull.bsky.social
+format:
+  html:
+    theme: 
+     - cosmo
+     - brand
+     
+
+
+

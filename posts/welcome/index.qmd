@@ -1,0 +1,8 @@
+---
+title: "hello world"
+author: "Frank Hull"
+date: "2024-12-11"
+categories: [news]
+---
+
+This is the first post in a Quarto blog. Welcome!

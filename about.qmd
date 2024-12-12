@@ -1,0 +1,71 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/frankiethull
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/frank-hull-a25ab0bb
+    - icon: github
+      text: Github
+      href: https://github.com/frankiethull
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/frankiethull.bsky.social
+---
+
+## Howdy -- my name is Frank Hull
+
+Welcome to my personal website & blog, where I discuss topics & projects related to the intersection of my professional career & hobbies.
+
+### Professional Background
+
+#### Energy & Data
+
+With 10+ years of experience in the energy and power markets, I have developed a strong background in data analytics, energy portfolio management, and risk assessment. My expertise includes statistical and machine learning methods, stochastic simulations, portfolio optimization & quantifying uncertainty. I have experience with over 50+ energy companies, across various ISOs and non-ISOs regions, in the USA and internationally as well.
+
+### Hobbies and Interests
+
+Outside of my professional life, I have a deep passion for open-source programming, music, and the outdoors. 
+
+#### Open-Source Projects
+
+I have developed various open-source projects, mostly related to bindings and interoperability. I also like to mess around with shaders and fluid dynamics. I enjoy programming & open-source projects are a fun way to challenge myself. 
+
+-   **ml/dl bindings**
+    -   {maize} - tidymodels extension for support vector machines and kernels in R
+    -   {kantime} - nixtla wrapper for Time Series Kolmogorov Arnold Networks in R
+-   **color palettes**
+    -   {BobRossColors} - color schemes based on 403 Bob Ross Paintings in R
+    -   {AlbumCoverColors.jl} - color schemes for albums in Julia
+-   **shaders**
+    -   {waveshaders} - tutorials on simulating fluids and displaying with {rayshader}
+-   **prompts/ai**
+    -   {ggpal2} - an AI assistant that helps create ggplot2 visualizations
+    -   {meznet} - discussion on CompVis vs LLMs for Image Recognition
+
+#### Music
+
+I have been playing the guitar since a teenager. I have always loved playing music with other musicians and friends. I also blame tablature for my love of numbers and patterns, not math. I also play keys, bouzouki, ukulele, mandolin, ~anything with frets. My most successful band was when I was in college, *Wake*, where we explored sounds in a genre somewhat related to post, progressive, and experimental rock. In the last few years I've been teaching myself how to play drums and really enjoying the challenge. 
+
+
+#### Outdoors
+
+I am an avid outdoor enthusiast and enjoy activities such as hiking, camping, backpacking, foraging, and climbing. These hobbies help me maintain a balanced life, earthbound, and connect with human nature. Whether it's planning a day-hike or leading an expedition, outside is where I thrive.
+
+
+### Why This Blog?
+
+This blog is a platform for me to share my thoughts & experiences that may not fit in a X/bluesky post. Where the discussions are niche and overlap between professional experience and hobby interests. This is dual purpose as I like to test quarto as a documentation and reporting interface. You won't be reading about my opinions on energy, nor how to build a weather-driven stochastic framework for the lower US-48. You may see discussions around my open source projects, music-math overlaps, fretboard interference, & visualizing natural terrains -- or who knows. The blogs are empty, at the moment I'm just trying to build a website and test _brand.yml with quarto v1.6     
+`¯\(°_o)/¯`
+
+
+## Get in Touch
+
+If you have any questions, suggestions, need advice, or just want to say hello, feel free to reach out through my social media links above or via email at \[frankiethull@proton.me\].
+
+Thank you for visiting my blog!

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "hello world",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to my personal website & blog, where I discuss topics & projects related to the intersection of my professional career & hobbies.\n\n\n\n\nWith 10+ years of experience in the energy and power markets, I have developed a strong background in data analytics, energy portfolio management, and risk assessment. My expertise includes statistical and machine learning methods, stochastic simulations, portfolio optimization & quantifying uncertainty. I have experience with over 50+ energy companies, across various ISOs and non-ISOs regions, in the USA and internationally as well.\n\n\n\n\nOutside of my professional life, I have a deep passion for open-source programming, music, and the outdoors.\n\n\nI have developed various open-source projects, mostly related to bindings and interoperability. I also like to mess around with shaders and fluid dynamics. I enjoy programming & open-source projects are a fun way to challenge myself.\n\nml/dl bindings\n\n{maize} - tidymodels extension for support vector machines and kernels in R\n{kantime} - nixtla wrapper for Time Series Kolmogorov Arnold Networks in R\n\ncolor palettes\n\n{BobRossColors} - color schemes based on 403 Bob Ross Paintings in R\n{AlbumCoverColors.jl} - color schemes for albums in Julia\n\nshaders\n\n{waveshaders} - tutorials on simulating fluids and displaying with {rayshader}\n\nprompts/ai\n\n{ggpal2} - an AI assistant that helps create ggplot2 visualizations\n{meznet} - discussion on CompVis vs LLMs for Image Recognition\n\n\n\n\n\nI have been playing the guitar since a teenager. I have always loved playing music with other musicians and friends. I also blame tablature for my love of numbers and patterns, not math. I also play keys, bouzouki, ukulele, mandolin, ~anything with frets. My most successful band was when I was in college, Wake, where we explored sounds in a genre somewhat related to post, progressive, and experimental rock. In the last few years I’ve been teaching myself how to play drums and really enjoying the challenge.\n\n\n\nI am an avid outdoor enthusiast and enjoy activities such as hiking, camping, backpacking, foraging, and climbing. These hobbies help me maintain a balanced life, earthbound, and connect with human nature. Whether it’s planning a day-hike or leading an expedition, outside is where I thrive.\n\n\n\n\nThis blog is a platform for me to share my thoughts & experiences that may not fit in a X/bluesky post. Where the discussions are niche and overlap between professional experience and hobby interests. This is dual purpose as I like to test quarto as a documentation and reporting interface. You won’t be reading about my opinions on energy, nor how to build a weather-driven stochastic framework for the lower US-48. You may see discussions around my open source projects, music-math overlaps, fretboard interference, & visualizing natural terrains – or who knows. The blogs are empty, at the moment I’m just trying to build a website and test _brand.yml with quarto v1.6\n¯\\(°_o)/¯"
+  },
+  {
+    "objectID": "about.html#howdy-my-name-is-frank-hull",
+    "href": "about.html#howdy-my-name-is-frank-hull",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to my personal website & blog, where I discuss topics & projects related to the intersection of my professional career & hobbies.\n\n\n\n\nWith 10+ years of experience in the energy and power markets, I have developed a strong background in data analytics, energy portfolio management, and risk assessment. My expertise includes statistical and machine learning methods, stochastic simulations, portfolio optimization & quantifying uncertainty. I have experience with over 50+ energy companies, across various ISOs and non-ISOs regions, in the USA and internationally as well.\n\n\n\n\nOutside of my professional life, I have a deep passion for open-source programming, music, and the outdoors.\n\n\nI have developed various open-source projects, mostly related to bindings and interoperability. I also like to mess around with shaders and fluid dynamics. I enjoy programming & open-source projects are a fun way to challenge myself.\n\nml/dl bindings\n\n{maize} - tidymodels extension for support vector machines and kernels in R\n{kantime} - nixtla wrapper for Time Series Kolmogorov Arnold Networks in R\n\ncolor palettes\n\n{BobRossColors} - color schemes based on 403 Bob Ross Paintings in R\n{AlbumCoverColors.jl} - color schemes for albums in Julia\n\nshaders\n\n{waveshaders} - tutorials on simulating fluids and displaying with {rayshader}\n\nprompts/ai\n\n{ggpal2} - an AI assistant that helps create ggplot2 visualizations\n{meznet} - discussion on CompVis vs LLMs for Image Recognition\n\n\n\n\n\nI have been playing the guitar since a teenager. I have always loved playing music with other musicians and friends. I also blame tablature for my love of numbers and patterns, not math. I also play keys, bouzouki, ukulele, mandolin, ~anything with frets. My most successful band was when I was in college, Wake, where we explored sounds in a genre somewhat related to post, progressive, and experimental rock. In the last few years I’ve been teaching myself how to play drums and really enjoying the challenge.\n\n\n\nI am an avid outdoor enthusiast and enjoy activities such as hiking, camping, backpacking, foraging, and climbing. These hobbies help me maintain a balanced life, earthbound, and connect with human nature. Whether it’s planning a day-hike or leading an expedition, outside is where I thrive.\n\n\n\n\nThis blog is a platform for me to share my thoughts & experiences that may not fit in a X/bluesky post. Where the discussions are niche and overlap between professional experience and hobby interests. This is dual purpose as I like to test quarto as a documentation and reporting interface. You won’t be reading about my opinions on energy, nor how to build a weather-driven stochastic framework for the lower US-48. You may see discussions around my open source projects, music-math overlaps, fretboard interference, & visualizing natural terrains – or who knows. The blogs are empty, at the moment I’m just trying to build a website and test _brand.yml with quarto v1.6\n¯\\(°_o)/¯"
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nIf you have any questions, suggestions, need advice, or just want to say hello, feel free to reach out through my social media links above or via email at [frankiethull@proton.me].\nThank you for visiting my blog!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Frank Hull | Personal Site & Blog",
+    "section": "",
+    "text": "hello world\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 11, 2024\n\n\nFrank Hull\n\n\n\n\n\n\nNo matching items"
+  }
+]
