@@ -9,7 +9,7 @@ about:
       href: https://twitter.com/frankiethull
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/frank-hull-a25ab0bb
+      href: https://linkedin.com/in/frank-hull-a25ab0bb
     - icon: github
       text: Github
       href: https://github.com/frankiethull
@@ -45,8 +45,11 @@ I have developed various open-source projects, mostly related to bindings and in
 -   **shaders**
     -   {waveshaders} - tutorials on simulating fluids and displaying with {rayshader}
 -   **prompts/ai**
-    -   {ggpal2} - an AI assistant that helps create ggplot2 visualizations
-    -   {meznet} - discussion on CompVis vs LLMs for Image Recognition
+    -   {kuzco}  - an LLM computer vision library in R    
+    -   {ggpal2} - an AI assistant that helps create ggplot2 visualizations  
+    -   {crias}  - an LLM turn-based DnD-style game
+    -   {fungai} - a looong-context sandbox for local agents
+    -   {meznet} - discussion on CompVis vs LLMs for Image Recognition (pre-kuzco release)
 
 #### Music
 
@@ -60,8 +63,7 @@ I am an avid outdoor enthusiast and enjoy activities such as hiking, camping, ba
 
 ### Why This Blog?
 
-This blog is a platform for me to share my thoughts & experiences that may not fit in a X/bluesky post. Where the discussions are niche and overlap between professional experience and hobby interests. This is dual purpose as I like to test quarto as a documentation and reporting interface. You won't be reading about my opinions on energy, nor how to build a weather-driven stochastic framework for the lower US-48. You may see discussions around my open source projects, music-math overlaps, fretboard interference, & visualizing natural terrains -- or who knows. The blogs are empty, at the moment I'm just trying to build a website and test _brand.yml with quarto v1.6     
-`¯\(°_o)/¯`
+This blog is a platform for me to share my thoughts & experiences that may not fit in a X/bluesky post. Where the discussions are niche and overlap between professional experience and hobby interests. This is dual purpose as I like to test quarto as a documentation and reporting interface. You won't be reading about my opinions on energy, nor how to build a weather-driven stochastic framework for the lower US-48. You may see discussions around my open source projects, music-math overlaps, fretboard interference, & visualizing natural terrains -- or who knows. The blogs are empty, at the moment I'm just trying to build a website and test _brand.yml with quarto v1.6
 
 
 ## Get in Touch
